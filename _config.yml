@@ -14,14 +14,14 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://adornahannah-droid.github.io/CCP---FBNMD-Database/
+source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
 title: CCP-FBNMD-GH 
-CCP Film, Broadcast and New Media Division Digital Archive
+tagline: CCP Film, Broadcast and New Media Division Digital Archive
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: Digital archive collection of CCP FBNMD
